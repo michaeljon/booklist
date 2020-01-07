@@ -21,7 +21,7 @@ ISBN: 0470059028
 
 **Pattern-Oriented Software Architecture, A System of Patterns vol. 3**<br/>
 Patterns for Resource Management<br/>
- Resource acquisition, life cycle, and release patterns are presented in this book.
+Resource acquisition, life cycle, and release patterns are presented in this book.
 Kircher, Michael et. al.<br/>
 ISBN: 0470845252
 
@@ -69,7 +69,7 @@ ISBN: 0201633612
 
 **Object-Oriented Modeling and Design**<br/>
 Rumbaugh, James et. al.<br/>
-ISBN: 
+ISBN:
 
 **Object-Oriented Analysis and Design with Applications (2nd Edition)**<br/>
 Booch, Grady<br/>
@@ -83,7 +83,7 @@ ISBN: 978-0136299813
 Coad, Peter<br/>
 ISBN: 978-0136300700
 
-**Object Oriented Prgramming**<br/>
+**Object Oriented Programming**<br/>
 Coad, Peter<br/>
 ISBN: 978-0130326164
 
@@ -109,7 +109,7 @@ ISBN: 978-0321545619
 
 **The Java Programming Language**<br/>
 Arnold, Ken; Gosling, James<br/>
-ISBN: 
+ISBN:
 
 **Java Language Specification (2nd Edition)**<br/>
 Gosling, James; Joy, Bill; Steele, Guy; Bracha, Gilad<br/>
@@ -125,7 +125,7 @@ Bentley, Jon
 
 **Structure and Interpretation of Computer Programs (1st ed.)**<br/>
 Abelson, Harold<br/>
-This is *the* book to start programming with, which is unfortunate because you've all started out the wrong way. But read this anyway. The first edition is much better in my opinion, but get either. This is available online and in print.<br/>
+This is _the_ book to start programming with, which is unfortunate because you've all started out the wrong way. But read this anyway. The first edition is much better in my opinion, but get either. This is available online and in print.<br/>
 
 **The Algorithm Design Manual 2nd Edition**<br/>
 Skiena, Steven<br/>
@@ -163,6 +163,10 @@ Tate, Bruce<br/>
 
 **Seven More Languages in Seven Weeks: Languages That Are Shaping the Future**<br/>
 Tate, Bruce<br/>
+
+**The Haskell School of Music: From Signals to Symphonies**<br/>
+Hudak, Paul and Quick, Donya<br/>
+Some light reading on building a type system from the ground up to support musical composition.<br/>
 
 ## Networking
 
