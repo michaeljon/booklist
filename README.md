@@ -50,6 +50,20 @@ ISBN: 0133065103
 Daigneau, Robert<br/>
 ISBN: 032154420X
 
+## Data Modeling / Patterns
+
+**The Data Model Resource Book, Vol. 1: A Library of Universal Data Models for All Enterprises**<br/>
+Silverston, Lenb<br/>
+ISBN: 0471380237
+
+**The Data Model Resource Book, Vol. 2: A Library of Data Models for Specific Industries**<br/>
+Silverston, Lenb<br/>
+ISBN: 0471353485
+
+**The Data Model Resource Book, Vol. 3: Universal Patterns for Data Modeling**<br/>
+Silverston, Lenb<br/>
+ISBN: 0470178450
+
 ## Software Architecture Textbooks
 
 **Software Architecture: Foundations, Theory and Practice**<br/>
